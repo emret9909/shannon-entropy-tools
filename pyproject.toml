@@ -1,6 +1,6 @@
 [project]
 name = "shannon-entropy-tools"
-version = "0.1.1"
+version = "0.1.2"
 description = "Calculates Shannon entropy and flags strings or bytes that appear random, encrypted, or compressed."
 requires-python = ">=3.10"
 dependencies = []
